@@ -1,18 +1,18 @@
 {
     "main": {
-        "name": "Rishabh Srivastava",
+        "name": "Sonny Singh",
         "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
         "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
         "image": "IG_Sonny.jpeg",
-        "bio": "My name is Rishabh, I'm a Bhubaneswar based FullStack Developer && SDE Intern @JP Morgan. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team. ",
+        "bio": "My name is Sonny. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team. ",
         "contactmessage": "Get in touch with me to receive further details.",
-        "email": "iamrishabh799@gmail.com",
-        "phone": "+91-8529428551",
+        "email": "",
+        "phone": "",
         "address": {
-            "street": "KP-5 Kiit road Patia",
-            "city": "Bhubaneswar",
-            "state": "IN",
-            "zip": "751024"
+            "street": "",
+            "city": "",
+            "state": "",
+            "zip: " ",
         },
         "website": "http://www.timbakerdev.com",
         "resumedownload": "",
@@ -20,19 +20,19 @@
 
             {
                 "name": "linkedin",
-                "url": "https://www.linkedin.com/in/iamrishabh07/",
+                "url": "",
                 "className": "fa fa-linkedin"
             },
 
             {
                 "name": "github",
-                "url": "https://github.com/iamRishabh07",
+                "url": "",
                 "className": "fa fa-github"
             }
         ]
     },
     "resume": {
-        "skillmessage": "I am an undergraduate student, currently in my third year, pursuing B.Tech in Electronics & Telecommunication Engineering at KIIT - Bhubaneswar
+        "skillmessage": "I am an undergraduate student, currently in my third year, pursuing B.Tech in Electronics & Telecommunication Engineering.
         I am a coding enthusiast,
         a proficient web developer and Deep learning enthusiast who love to learn and enjoy implementing technology supported solutions to the problems I face..
         I spend a lot of my development time contributing to open - source projects.
@@ -41,19 +41,17 @@
         I love Music🎵.
         ",
         "education": [{
-            "school": "Kalinga Institute Of Industrial Technology",
-            "degree": "Bachekors Of Technology",
-            "graduated": "on June 2022",
-            "description": "Currently in 3rd year"
+            "school": "",
+            "degree": "",
+            "graduated": "",
+            "description": ""
         }],
         "work": [{
-                "company": "JPMorgan&Chase",
-                "title": "SDE Intern",
-                "years": "March-April 2020",
-                "description": " 1. Interface with a stock price data feed.
-                2. Use JPMorgan Chase frameworks and tools.
-                3. Display data visually
-                for traders "
+                "company": "",
+                "title": "",
+                "years": "",
+                "description": "
+             
             },
             {
                 "company": "Lindar Media",
@@ -90,45 +88,45 @@
     },
     "portfolio": {
         "projects": [{
-                "title": "Sentiment Analysis Web Model",
-                "category": "Trained and deployed PyTorch sentiment analysis model. Also, built a model and create a gateway for accessing it from a website. ",
-                "image": "sentiment photo.jpg",
-                "url": "https://github.com/iamRishabh07/project--Deploying-sentiment-analysis-model"
+                "title": "",
+                "category": " ",
+                "image": "",
+                "url": ""
             },
             {
-                "title": "Weather Journal App",
-                "category": "This project was about working with Web APIs and asynchronous code, creating a web app that uses OpenWeatherMap API to get weather based on user's location, and dynamically update UI.",
-                "image": "Weather-Journal-App-About.jpg",
-                "url": "https://github.com/iamRishabh07/Weather-Journal-App"
+                "title": "",
+                "category": "",
+                "image": "",
+                "url": ""
             },
             {
-                "title": "Dog Breed Classifier ",
-                "category": "Designed and trained a convolutional neural network to analyze images of dogs and correctly identify their breeds. Used transfer learning and well-known architectures to improve this model. This is excellent preparation for more advanced applications",
-                "image": "dog.jpg",
-                "url": "https://github.com/iamRishabh07/project-dog-classification"
+                "title": "",
+                "category": "",
+                "image": "",
+                "url": ""
             },
             {
-                "title": "TV Script Generation",
-                "category": "Built a recurrent neural network on TensorFlow to process text. Used to generate new episodes of your favorite TV show, based on old scripts.",
-                "image": "tv.jpg",
-                "url": "https://github.com/iamRishabh07/project-tv-script-generation"
+                "title": "",
+                "category": "",
+                "image": "",
+                "url": ""
             },
             {
-                "title": "Face Generator",
-                "category": "Built a pair of multi-layer neural networks and make them compete against each other in order to generate new, realistic faces. Tried training them on a set of celebrity faces, and see what new faces the computer comes out with.",
-                "image": "face.jpg",
-                "url": "https://github.com/iamRishabh07/project-face-generation"
+                "title": "",
+                "category": "",
+                "image": "",
+                "url": ""
             }
         ]
     },
     "testimonials": {
         "testimonials": [{
                 "text": "I had the pleasure of working with Rishabh for Deep Learning tech-based projects. One of his striking qualities is his flexibility and his zeal to learn and experiment with different programming languages and libraries, whenever the situation demanded him to do so. Rishabh is certainly a go-getter and is definitely an asset in any team he works with.",
-                "user": "Arihant Samaiyar"
+                "user": ""
             },
             {
                 "text": "Hard Working And Knows How To Implement Concepts In Real Life Problems",
-                "user": "Annsuman Shaw"
+                "u"
             }
         ]
     }
